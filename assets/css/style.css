@@ -1,0 +1,20 @@
+
+h2 {
+    text-align: center;
+    color:orange;
+    font-family: 'Montaga', serif;
+    font-size: 50px;
+}
+
+p {
+    font-family: 'Lora', serif;
+
+}
+.container {
+    background-color:whitesmoke;
+    width:50%;
+    height:auto;
+    padding:40px;
+    margin:0 auto;
+}
+
